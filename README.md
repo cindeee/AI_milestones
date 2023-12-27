@@ -1,2 +1,10 @@
-# AI_milestones
-My postgraduate AI learning journey!
+# MSc Data-Centric Artificial Intelligence at HKUST (GZ)
+
+Contains course projects and assignments.
+ 
+ 1. DSAA6100 Practical Lab Course 
+ 2. DSAA5002 Data Mining and Knowledge Discovery in Data Science
+ 3. DSAA5020 Foundation of Data Science and Analytics 
+ 4. DSAA5021 Data Sciene Computing 
+
+ 
