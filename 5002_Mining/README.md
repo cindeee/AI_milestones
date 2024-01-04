@@ -1,18 +1,24 @@
 # Data Mining and Knowledge Discovery in Data Science
-(https://home.cse.ust.hk/~leichen/courses/DSAA5002/)
-### Assignment 1
-- Mining Frequent Patterns, Associations and Correlations: Basic Concepts and Methods
-- Advanced Frequent Pattern Mining 
-### Assignment 2
-- Classification: Basic Concepts
-- Classification: Advanced Methods
-### Assignment 3
-- Cluster Analysis: Basic Concepts and Methods
-- Cluster Analysis: Advanced Methods
-- Outlier Analysis
-### Final Project
-This individual project contributes to 30% of the total grade. We strongly recommend you start early. This project serves as a holistic assessment of your Python proficiency and grasp of data mining and knowledge discovery. Certainly, you might not have encountered certain topics in this project, such as knowledge graph construction. Please take the initiative to study these areas independently. We encourage you to use creative thinking and explore multiple approaches.
 
-### 72-hour take-home exam
-This is the final exam for MSc DSAA5002. You will have 72 hours to complete and submit your answers.
+The project contains the following contents, which can be categorised into below: 
 
+0. Instructions
+
+1. Submissions
+    - Report.pdf
+    - Task1.xlsx
+    - Task2.xlsx
+    - task1_code.ipynb : for questions 1 and 2
+    - task2_code.ipynb : for questions 3 and 4
+
+2. Folder: data
+    - News.xlsx
+    - News.csv 
+    - A_share_list.json 
+    - .csv files for KnowledgeGraph
+
+3. Folder: others
+    - checkpoints : (not included due to large folder size)
+    - materials : includes Github files downloaded for local use
+
+4. Folder: submission_excel_sample
