@@ -4,13 +4,13 @@
 - Topic: Kaggle playground series - Software Defect Prediction
 
 ### Assignment 2: Stock Price Prediction
-- Apply skills in data analytics and machine learning to predict the future price of three publicly traded companies' stocks.
+- Applied skills in data analytics and machine learning to predict the future price of three publicly traded companies' stocks.
 
 ### Assignment 3: Final Project Report
-- Explore your interests and find a topic that truly excites you. 
+- Self-defined topic: UBC Ovarian Cancer Subtype Classification and Outlier Detection (UBC-OCEAN)
 
 ### Assignment 4: Axiomatic Approaches for Explanations
-To help you understand axiomatic approaches for explanations, please prove the following theorems.
+Prove the following theorems:
 
 - Shapley Value Theorem. 
     The Shapley value of the game that divides the payoff of the grand coalition satisfies symmetry, dummy and additivity.
