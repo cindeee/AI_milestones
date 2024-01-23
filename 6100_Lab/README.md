@@ -18,8 +18,6 @@ The notebook introduces a single-layer supervised neural network in Section 1, r
 
 - This assignment focuses on training a model for binary classification of movie reviews (categorized as 'good' or 'bad') using a dataset comprising 40,000 real movie reviews from IMDb.
 
-
-
 ### Project 4: Large Language Model Fine-Tuning
 
 - An experiment centered on fine-tuning  Llama 2 model, with subsequent evaluation of performance through perplexity and cross-entropy measurements, and suggests improving results by adjusting dataset sizes or tweaking model parameters.
@@ -44,17 +42,17 @@ The notebook introduces a single-layer supervised neural network in Section 1, r
 
 ### Project 9: Reinforcement Learning (to be updated)
 
+- Learning outcomes are summarised with PPT/Slides. The self-engaged learning projects are too large, so it is not oincluded here. 
 
 ### Project 10: Recommender System
 
 - The three notebooks for self-learning focuses on item-item recommendation, cold-start problem and implicit feedback recommender. 
 
-- Learning outcomes are summarised with PPT/Slides, with additional self-engaged learning projects in teh *project* folder.
+- Learning outcomes are summarised with PPT/Slides, with additional self-engaged learning projects in the *project* folder.
 
 ### Project 11: Graph Neural Networks
 
-
-- This experiment explores the practical application of Graph Neural Networks (GNNs) on various tasks, with a focus on basic network layers like graph convolutions and attention layers, and applying a GNN to node-level, edge-level, and graph-level tasks after importing standard libraries.
+- This experiment explores the practical application of Graph Neural Networks (GNNs) on various tasks, with a focus on basic network layers like graph convolutions and attention layers, and by applying a GNN to node-level, edge-level, and graph-level tasks after importing standard libraries.
 
 - Learning outcomes are summarised with PPT/Slides, with additional self-engaged learning projects in teh *project* folder.
 
