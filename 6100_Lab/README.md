@@ -40,9 +40,9 @@ The notebook introduces a single-layer supervised neural network in Section 1, r
 
 - This notebook focuses on dataset expansion and active learning strategies, contrasting passive learning (random sampling) with active learning with Max Entropy method. This involves selection of unlabeled examples based on model uncertainty, scaling up with OpenImages dataset and the SEALS approach for efficient active learning and similarity search.
 
-### Project 9: Reinforcement Learning (to be updated)
+### Project 9: Reinforcement Learning 
 
-- Learning outcomes are summarised with PPT/Slides. The self-engaged learning projects are too large, so it is not oincluded here. 
+- Learning outcomes are summarised with PPT/Slides. The self-engaged learning projects are too large, so it is not included here. 
 
 ### Project 10: Recommender System
 
